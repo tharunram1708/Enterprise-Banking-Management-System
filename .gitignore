@@ -1,0 +1,9 @@
+.env
+.idea/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+uploads/
+mysql_data/
